@@ -1,3 +1,2 @@
-"use strict";
-let message = "Hi this is me";
+var message = "Hellow World";
 console.log(message);
